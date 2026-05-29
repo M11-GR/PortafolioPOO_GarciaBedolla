@@ -46,7 +46,7 @@ PortafolioPOO/
 ├── Proyecto_01_ExamenContraReloj/
 │   ├── README.md  <-- (Documentación del proyecto)
 │   ├── codigo/    <-- (Aquí guardas tus archivos .php o .py)
-│   └── capturas/  <-- (Aquí guardas las fotos del examen)
+│   └── capturas/  <-- (Aquí guardas las fotos de la actividad)
 ├── Proyecto_02_ConsumoServidores/
 │   ├── README.md
 │   ├── codigo/
