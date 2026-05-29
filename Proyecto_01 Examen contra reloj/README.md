@@ -43,7 +43,7 @@ El proyecto resuelve dos ejercicios de modelado bajo una restricción de tiempo 
 
 ## 8. Reflexión Personal
 **¿Qué aprendí?** Aprendí a estructurar clases de forma rápida utilizando tipado estricto en PHP y a comprobar en la práctica por qué no es posible alterar un atributo privado directamente desde un archivo externo (`index.php`) sin un método puente.
-**¿Qué fue difícil?** El principal reto fue adaptarme a la presión del reloj de 30 minutos manteniendo la precisión en la sintaxis, asegurando que los tipos complejos como `DateTime` se instanciaran correctamente.         **¿Qué mejoraría?** En futuros ejercicios agregaría métodos constructores (`__construct`) y métodos de acceso públicos (*getters* y *setters*) para poder manipular e interactuar con los datos privados de forma segura, respetando al 100% las buenas prácticas del encapsulamiento.
+**¿Qué fue difícil?** El principal reto fue adaptarme a la presión del reloj de 30 minutos manteniendo la precisión en la sintaxis, asegurando que los tipos complejos como `DateTime` se instanciaran correctamente.        
+**¿Qué mejoraría?** En futuros ejercicios agregaría métodos constructores (`__construct`) y métodos de acceso públicos (*getters* y *setters*) para poder manipular e interactuar con los datos privados de forma segura, respetando al 100% las buenas prácticas del encapsulamiento.
 
----
 *Regresar al [README Principal](../README.md)*
