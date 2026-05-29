@@ -1,5 +1,5 @@
 # Proyecto 01: Examen práctico contra reloj - Corte 1
-## 🎯 1. Nombre del Proyecto
+## 1. Nombre del Proyecto
 Examen Práctico Contra Reloj.
 
 ## 2. Objetivo del Proyecto
