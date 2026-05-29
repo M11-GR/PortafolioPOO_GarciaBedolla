@@ -3,7 +3,7 @@
 Examen Práctico Contra Reloj.
 
 ## 2. Objetivo del Proyecto
-[cite_start]Medir la precisión técnica en la sintaxis del lenguaje PHP y la capacidad para modelar estructuras de datos del mundo real mediante abstracción, sin implementar comportamientos o métodos en esta etapa inicial.
+Medir la precisión técnica en la sintaxis del lenguaje PHP y la capacidad para modelar estructuras de datos del mundo real mediante abstracción, sin implementar comportamientos o métodos en esta etapa inicial.
 
 ## 3. Problema que Resuelve
 [cite_start]El proyecto resuelve dos ejercicios de modelado bajo una restricción de tiempo de 30 minutos[cite: 7]:
