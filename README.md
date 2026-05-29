@@ -7,8 +7,6 @@
 * **Semestre:** 2do Semestre
 * **Carrera:** Ingeniería Informática
 
----
-
 ## Descripción General
 Este repositorio conforma el portafolio técnico de Programación Orientada a Objetos Reúne un conjunto de soluciones de software estructuradas, diseñadas e implementadas a lo largo del periodo escolar, con el fin de consolidar los principios fundamentales de la ingeniería de software y el paradigma orientado a objetos.
 
@@ -26,7 +24,6 @@ A través de estos desarrollos, se aborda de manera práctica el modelado de sis
 * **Lógica de Programación Avanzada:** Manejo de estructuras de datos lineales (arreglos) y persistencia/gestión de información a través de manipulación de archivos de texto.
 * **Gestión de Entornos Locales:** Configuración, administración y despliegue de scripts y entornos web mediante el servidor local Apache en XAMPP.
 
----
 
 ## Lista de Proyectos Incluidos
 
@@ -43,37 +40,27 @@ De acuerdo con la organización jerárquica de archivos establecida para este po
 5. **Proyecto 05: Actividad Integradora - Gestión de Bitácoras en Archivos de Texto**
    * *Enfoque:* Sistema avanzado de registro y persistencia de eventos (logs) mediante lectura y escritura de archivos planos utilizando clases dedicadas y manejo de flujos de datos.
 
----
-
 ## Estructura del Repositorio
-
+```text
 PortafolioPOO/
-│
 ├── README.md  <-- (README Principal)
-│
 ├── Proyecto_01_ExamenContraReloj/
 │   ├── README.md  <-- (Documentación del proyecto)
 │   ├── codigo/    <-- (Aquí guardas tus archivos .php o .py)
 │   └── capturas/  <-- (Aquí guardas las fotos del examen)
-│
 ├── Proyecto_02_ConsumoServidores/
 │   ├── README.md
 │   ├── codigo/
 │   └── capturas/
-│
 ├── Proyecto_03_Usuarios/
 │   ├── README.md
 │   ├── codigo/
 │   └── capturas/
-│
 ├── Proyecto_04_ArreglosUnidimensionales/
 │   ├── README.md
 │   ├── codigo/
 │   └── capturas/
-│
-├── Proyecto_05_GestionBitacoras/
-│   ├── README.md
-│   ├── codigo/
-│   └── capturas/
-│
-└── Evidencias/
+└── Proyecto_05_GestionBitacoras/
+    ├── README.md
+    ├── codigo/
+    └── capturas/
