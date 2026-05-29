@@ -23,12 +23,10 @@ En los centros de datos, el consumo de luz de un servidor cambia constantemente 
 * **Control de Errores:** El sistema cuenta con una estructura que detecta si el usuario comete una equivocación (como poner que el tiempo final sea menor que el inicial) y manda un mensaje de aviso en lugar de romper o trabar la página web.
 
 ## 6. Capturas de Pantalla
-*Las imágenes de evidencia se encuentran guardadas localmente en la carpeta de capturas:*
-
-#### Formulario de Entrada / Interfaz Inicial
-<img width="995" height="540" alt="Captura de pantalla 2026-05-26 201402" src="https://github.com/user-attachments/assets/ef3695be-b0a7-4137-996f-a585d1f59b08" />
 
 #### Resultados Obtenidos
+<img width="995" height="540" alt="Captura de pantalla 2026-05-26 201402" src="https://github.com/user-attachments/assets/ef3695be-b0a7-4137-996f-a585d1f59b08" />
+
 <img width="1414" height="1013" alt="Captura de pantalla 2026-05-26 201442" src="https://github.com/user-attachments/assets/2917a56b-fa2f-458e-9be6-fdea2aa5f253" />
 
 
