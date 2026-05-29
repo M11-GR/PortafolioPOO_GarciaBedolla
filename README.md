@@ -1,5 +1,4 @@
 # Portafolio de Proyectos — Programación Orientada a Objetos
-
 ## Datos del Alumno
 * **Nombre completo:** Diana Monserrat García Bedolla
 * **Materia:** Programación Orientada a Objetos
