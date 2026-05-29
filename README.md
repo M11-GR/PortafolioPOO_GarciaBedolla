@@ -1,6 +1,6 @@
 # Portafolio de Proyectos — Programación Orientada a Objetos
 
-## 👤 Datos del Alumno
+## Datos del Alumno
 * **Nombre completo:** Diana Monserrat García Bedolla
 * **Materia:** Programación Orientada a Objetos
 * **Docente:** Jesús Salas Marín
@@ -9,7 +9,7 @@
 
 ---
 
-## 📝 Descripción General
+## Descripción General
 Este repositorio conforma el portafolio técnico de Programación Orientada a Objetos Reúne un conjunto de soluciones de software estructuradas, diseñadas e implementadas a lo largo del periodo escolar, con el fin de consolidar los principios fundamentales de la ingeniería de software y el paradigma orientado a objetos.
 
 A través de estos desarrollos, se aborda de manera práctica el modelado de sistemas utilizando abstracción de datos, la encapsulación de lógica mediante el diseño de clases y objetos, la modularidad y comportamiento a través de métodos, así como la reutilización de código mediante relaciones de herencia estructural.
@@ -45,28 +45,35 @@ De acuerdo con la organización jerárquica de archivos establecida para este po
 
 ---
 
-## 🌿 Estructura Recomendada del Repositorio
+## Estructura del Repositorio
 
-La arquitectura interna de este portafolio sigue el estándar recomendado para mantener la modularidad y el orden de las evidencias de aprendizaje:
-
-```text
 PortafolioPOO/
 │
-├── README.md  <-- (Este archivo - README Principal)
+├── README.md  <-- (README Principal)
 │
 ├── Proyecto_01_ExamenContraReloj/
-│   └── README.md
+│   ├── README.md  <-- (Documentación del proyecto)
+│   ├── codigo/    <-- (Aquí guardas tus archivos .php o .py)
+│   └── capturas/  <-- (Aquí guardas las fotos del examen)
 │
 ├── Proyecto_02_ConsumoServidores/
-│   └── README.md
+│   ├── README.md
+│   ├── codigo/
+│   └── capturas/
 │
 ├── Proyecto_03_Usuarios/
-│   └── README.md
+│   ├── README.md
+│   ├── codigo/
+│   └── capturas/
 │
 ├── Proyecto_04_ArreglosUnidimensionales/
-│   └── README.md
+│   ├── README.md
+│   ├── codigo/
+│   └── capturas/
 │
 ├── Proyecto_05_GestionBitacoras/
-│   └── README.md
+│   ├── README.md
+│   ├── codigo/
+│   └── capturas/
 │
 └── Evidencias/
