@@ -1,7 +1,6 @@
 # Proyecto 01: Examen práctico contra reloj - Corte 1
-
-## 1. Nombre del Proyecto
-Examen Práctico Contra Reloj — Modelado de Datos Iniciales en PHP.
+## 🎯 1. Nombre del Proyecto
+Examen Práctico Contra Reloj.
 
 ## 2. Objetivo del Proyecto
 [cite_start]Medir la precisión técnica en la sintaxis del lenguaje PHP y la capacidad para modelar estructuras de datos del mundo real mediante abstracción, sin implementar comportamientos o métodos en esta etapa inicial.
@@ -27,7 +26,9 @@ Examen Práctico Contra Reloj — Modelado de Datos Iniciales en PHP.
 
 #### Estructura del Código / Interfaz Inicial
 <img width="1134" height="968" alt="image" src="https://github.com/user-attachments/assets/853c4f75-d0fd-49c8-9b0b-3e3df69e079e" />
+
 <img width="776" height="427" alt="image" src="https://github.com/user-attachments/assets/dfd5295f-ff60-4406-a5a0-b5d5b0397732" />
+
 <img width="730" height="405" alt="image" src="https://github.com/user-attachments/assets/807e14f6-010f-4a24-9fab-e49e384e737a" />
 
 #### Ejecución del Proceso en Servidor
